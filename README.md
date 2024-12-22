@@ -1,1 +1,1 @@
-# DovizKurUygulama
+# Döviz Kur Uygulması
